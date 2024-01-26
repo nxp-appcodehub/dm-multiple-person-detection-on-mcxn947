@@ -57,7 +57,8 @@ Here is the detail.
 
 ![](image/frdm_board_rework.png)
 
-Attach the LCD shield and the Camera shield to the FRDM board. as shown  below:
+Attach the LCD shield (J1: Pins 5-28 skip first 4 pins) to FRDM (J8) 
+Attach the camera shield to the FRDM (J9: Pins 5-23; skip first 4 pins), as shown  below:
 
 ![](image/frdm_board_connections.png)
 
