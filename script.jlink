@@ -1,0 +1,7 @@
+ExitOnError 1
+r
+h
+loadfile "C:\LocalData\repos\github\nxp-appcodehub\dm-multi-person-detection-on-mcxn947\Debug\frdmmcxn947_person_detection.hex"
+qc
+
+qc
